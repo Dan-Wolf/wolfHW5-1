@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Compile myCopier.cpp and create executable myCopier"
+g++ myCopier.cpp -o myCopier
+echo "Finished"
